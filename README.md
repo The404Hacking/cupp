@@ -65,32 +65,22 @@
 
 ## Github import
 
-This project was imported into https://github.com/Mebus/cupp by Mebus from:  
-http://www.remote-exploit.org/content/cupp-3.0.tar.gz  
-http://www.remote-exploit.org/articles/misc_research__amp_code/index.html  
+This project was imported into https://github.com/The404Hacking/cupp by [Sir.4m1R](https://T.me/Sir4m1R) from:  
+[cupp_3_0_tar.gz](http://s8.picofile.com/file/8308325176/cupp_3_0_tar.gz.html)
+[index.rar](http://s9.picofile.com/file/8308325334/index.rar.html)
 to encourage further developement of the tool.
 
-## Original author
+## Download and Clone
+> Download: [https://github.com/The404Hacking/cupp/archive/master.zip](https://github.com/The404Hacking/cupp/archive/master.zip)
 
-  Muris Kurgas aka j0rgan  
-  j0rgan@remote-exploit.org  
-  http://www.remote-exploit.org  
-  http://www.azuzi.me  
+> Clone: git clone [https://github.com/The404Hacking/cupp.git](https://github.com/The404Hacking/cupp.git)
 
+## The404Hacking | Digital UnderGround Team
+[The404Hacking](https://T.me/The404Hacking)
 
-## Contributors
+## Follow us !
+[The404Hacking](https://T.me/The404Hacking) - [The404Cracking](https://T.me/The404Cracking)
 
-  * Bosko Petrovic aka bolexxx  
-  bole_loser@hotmail.com  
-  http://www.offensive-security.com  
-  http://www.bolexxx.net  
+[Instagram](https://instagram.com/The404Hacking) - [GitHub](https://github.com/The404Hacking)
 
-  * Mebus  
-    https://github.com/Mebus/  
-
-  * Abhro  
-    https://github.com/Abhro/  
-
-  * Andrea Giacomo  
-    https://github.com/codepr
-
+[YouTube](http://yon.ir/youtube404) - [Aparat](http://www.aparat.com/The404Hacking)
