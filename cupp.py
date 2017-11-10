@@ -9,10 +9,10 @@
 #
 #  [Author]
 #
-#  Muris Kurgas aka j0rgan
-#  j0rgan [at] remote-exploit [dot] org
-#  http://www.remote-exploit.org
-#  http://www.azuzi.me
+#  Powered By Sir.4m1R (@Sir4m1R)
+#  The404Hacking | Digital Security ReSearch Group
+#  Telegram Channel: @The404Hacking
+#  Email Address: The404Hacking.Team@Gmail.Com
 #
 #
 #
@@ -106,7 +106,7 @@ if len(sys.argv) < 2 or sys.argv[1] == '-h':
 	print "       \   \033[1;31m,__,\033[1;m             # Passwords"
 	print "        \  \033[1;31m(\033[1;moo\033[1;31m)____\033[1;m         # Profiler"
 	print "           \033[1;31m(__)    )\ \033[1;m  "
-	print "           \033[1;31m   ||--|| \033[1;m\033[05m*\033[25m\033[1;m      [ Muris Kurgas | j0rgan@remote-exploit.org ]\r\n\r\n"
+	print "           \033[1;31m   ||--|| \033[1;m\033[05m*\033[25m\033[1;m      [ The404Hacking | T.me/The404Hacking ]\r\n\r\n"
 
 	print "	[ Options ]\r\n"
 	print "	-h	You are looking at it baby! :)"
@@ -127,8 +127,8 @@ if len(sys.argv) < 2 or sys.argv[1] == '-h':
 
 elif sys.argv[1] == '-v':
 	print "\r\n	\033[1;31m[ cupp.py ]  v3.1.0-alpha\033[1;m\r\n"
-	print "	* Hacked up by j0rgan - j0rgan@remote-exploit.org"
-	print "	* http://www.remote-exploit.org\r\n"
+	print "	* Hacked up by Sir.4m1R - The404Hacking"
+	print "	* Telegram.me/The404Hacking | The404Hacking.Team@Gmail.Com\r\n"
 	print "	Take a look ./README.md file for more info about the program\r\n"
 	exit()
 
