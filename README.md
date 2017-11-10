@@ -1,4 +1,4 @@
-# cupp.py - Common User Passwords Profiler
+# [Cupp](https://github.com/The404Hacking/cupp) - Common User Passwords Profiler
 ![Cupp](Screenshot.png?raw=true "cupp")
  
 ## About
