@@ -6,7 +6,6 @@
 #  Common User Passwords Profiler
 #
 #
-#
 #  [Author]
 #
 #  Powered By Sir.4m1R (@Sir4m1R)
