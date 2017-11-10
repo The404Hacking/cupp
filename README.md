@@ -1,5 +1,5 @@
 # cupp.py - Common User Passwords Profiler
-
+![Cupp](Screenshot.png?raw=true "cupp")
  
 ## About
 
